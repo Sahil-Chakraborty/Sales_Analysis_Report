@@ -25,7 +25,7 @@ The dataset consists of sales records with the following key features:
 
 ---
 
-## 📊 Visualizations & Insights  
+## 📊 Key Visualizations & Insights  
 
 | **Monthly Sales Trend** | **Revenue Distribution** |
 | :---: | :---: |
