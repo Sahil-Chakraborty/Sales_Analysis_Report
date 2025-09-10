@@ -1,5 +1,18 @@
 # 📊 Amazon Sales Report Analysis
 
+---
+
+## 🔗 Live Dashboard
+👉 [View Tableau Dashboard](https://public.tableau.com/shared/58FKBBWPJ?:display_count=n&:origin=viz_share_link)
+
+---
+
+## 📊 Dashboard Preview
+<p align="center">
+  <img src="charts/Dashboard 1.png" alt="Attrition Dashboard" width="800" height="450">
+</p>
+
+
 ## 📌 Overview
 This project involves an **Exploratory Data Analysis (EDA)** of Amazon sales transactions. The dataset contains details such as order ID, date, order status, fulfillment method, sales channel, product category, size, quantity, amount, and shipping information.  
 The primary goal is to extract **actionable insights** that can help optimize sales strategies, improve operational efficiency, and enhance customer satisfaction.
