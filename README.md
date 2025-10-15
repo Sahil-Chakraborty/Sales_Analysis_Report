@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Report Analysis
+# 📊 Sales Report Analysis
 
 ---
 
