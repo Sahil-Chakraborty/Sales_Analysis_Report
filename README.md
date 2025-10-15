@@ -14,7 +14,7 @@
 
 
 ## 📌 Overview
-This project involves an **Exploratory Data Analysis (EDA)** of Amazon sales transactions. The dataset contains details such as order ID, date, order status, fulfillment method, sales channel, product category, size, quantity, amount, and shipping information.  
+This project involves an **Exploratory Data Analysis (EDA)** of Sales transactions. The dataset contains details such as order ID, date, order status, fulfillment method, sales channel, product category, size, quantity, amount, and shipping information.  
 The primary goal is to extract **actionable insights** that can help optimize sales strategies, improve operational efficiency, and enhance customer satisfaction.
 
 ---
